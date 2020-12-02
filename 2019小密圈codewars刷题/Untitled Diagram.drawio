@@ -1,1 +1,217 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T12:16:28.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" version="13.10.5" etag="45ImLt2q85Jzad_31l-_" type="github"><diagram id="zJmhjYBZVOPkOEe6jW3S">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-02T12:23:32.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="E8DFzrRaKtc9kMHhaNGP" version="13.10.5" type="github">
+  <diagram id="zJmhjYBZVOPkOEe6jW3S" name="Page-1">
+    <mxGraphModel dx="1038" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-1" value="发现问题及确定问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-2" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ql02mlSxMGlXZP3Vu3lK-1" target="Ql02mlSxMGlXZP3Vu3lK-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="100" as="sourcePoint" />
+            <mxPoint x="240" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-3" value="研究背景及意义" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-4" value="理论研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-5" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ql02mlSxMGlXZP3Vu3lK-1" target="Ql02mlSxMGlXZP3Vu3lK-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="30" as="sourcePoint" />
+            <mxPoint x="80" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-6" value="特色小镇&lt;br&gt;现状分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-7" value="特色小镇&lt;br&gt;政策分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-8" value="产业耦合&lt;br&gt;概念测度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="60" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-9" value="产业耦合&lt;br&gt;数量研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="60" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-10" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.44;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Ql02mlSxMGlXZP3Vu3lK-6" target="Ql02mlSxMGlXZP3Vu3lK-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="260" as="sourcePoint" />
+            <mxPoint x="60" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-11" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ql02mlSxMGlXZP3Vu3lK-7" target="Ql02mlSxMGlXZP3Vu3lK-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="260" as="sourcePoint" />
+            <mxPoint x="60" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-12" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ql02mlSxMGlXZP3Vu3lK-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="260" as="sourcePoint" />
+            <mxPoint x="450" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-13" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ql02mlSxMGlXZP3Vu3lK-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="260" as="sourcePoint" />
+            <mxPoint x="450" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-14" value="特色小镇与区域产业发展耦合关系的理论命题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="160" width="255" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-15" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ql02mlSxMGlXZP3Vu3lK-14" target="Ql02mlSxMGlXZP3Vu3lK-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="260" as="sourcePoint" />
+            <mxPoint x="60" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-16" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ql02mlSxMGlXZP3Vu3lK-14" target="Ql02mlSxMGlXZP3Vu3lK-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="260" as="sourcePoint" />
+            <mxPoint x="60" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-17" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ql02mlSxMGlXZP3Vu3lK-14" target="Ql02mlSxMGlXZP3Vu3lK-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="260" as="sourcePoint" />
+            <mxPoint x="60" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-18" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ql02mlSxMGlXZP3Vu3lK-14" target="Ql02mlSxMGlXZP3Vu3lK-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="260" as="sourcePoint" />
+            <mxPoint x="60" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-19" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ql02mlSxMGlXZP3Vu3lK-4" target="Ql02mlSxMGlXZP3Vu3lK-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="260" as="sourcePoint" />
+            <mxPoint x="60" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ql02mlSxMGlXZP3Vu3lK-21" target="Ql02mlSxMGlXZP3Vu3lK-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-21" value="实证研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="305" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-22" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ql02mlSxMGlXZP3Vu3lK-4" target="Ql02mlSxMGlXZP3Vu3lK-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="410" as="sourcePoint" />
+            <mxPoint x="60" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-23" value="特色小镇&lt;br&gt;产业耦合机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="220" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-24" value="特色小镇&lt;br&gt;经济发展机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="222.5" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-25" value="神经网络&lt;br&gt;学习机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="220" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-26" value="特色小镇与区域产业发展耦合关系的实证分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="323.5" y="305" width="253" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-27" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ql02mlSxMGlXZP3Vu3lK-23" target="Ql02mlSxMGlXZP3Vu3lK-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="410" as="sourcePoint" />
+            <mxPoint x="60" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-28" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ql02mlSxMGlXZP3Vu3lK-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="410" as="sourcePoint" />
+            <mxPoint x="450" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-29" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ql02mlSxMGlXZP3Vu3lK-25" target="Ql02mlSxMGlXZP3Vu3lK-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="410" as="sourcePoint" />
+            <mxPoint x="60" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-30" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ql02mlSxMGlXZP3Vu3lK-26" target="Ql02mlSxMGlXZP3Vu3lK-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="410" as="sourcePoint" />
+            <mxPoint x="60" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-31" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ql02mlSxMGlXZP3Vu3lK-26" target="Ql02mlSxMGlXZP3Vu3lK-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="410" as="sourcePoint" />
+            <mxPoint x="60" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-32" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ql02mlSxMGlXZP3Vu3lK-26" target="Ql02mlSxMGlXZP3Vu3lK-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="410" as="sourcePoint" />
+            <mxPoint x="60" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-33" value="结论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="520" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-34" value="特色小镇发展分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="360" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-35" value="产业耦合协调度分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="360" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-36" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ql02mlSxMGlXZP3Vu3lK-34" target="Ql02mlSxMGlXZP3Vu3lK-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="520" as="sourcePoint" />
+            <mxPoint x="60" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-37" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ql02mlSxMGlXZP3Vu3lK-35" target="Ql02mlSxMGlXZP3Vu3lK-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="520" as="sourcePoint" />
+            <mxPoint x="450" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-38" value="&lt;span style=&quot;white-space: normal&quot;&gt;特色小镇与区域产业发展耦合关系的命题检验&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="317.5" y="435" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-39" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ql02mlSxMGlXZP3Vu3lK-38" target="Ql02mlSxMGlXZP3Vu3lK-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="600" as="sourcePoint" />
+            <mxPoint x="60" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-40" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ql02mlSxMGlXZP3Vu3lK-38" target="Ql02mlSxMGlXZP3Vu3lK-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="600" as="sourcePoint" />
+            <mxPoint x="60" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-41" value="结论分析与研究展望" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="387.5" y="520" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-42" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ql02mlSxMGlXZP3Vu3lK-33" target="Ql02mlSxMGlXZP3Vu3lK-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="620" as="sourcePoint" />
+            <mxPoint x="60" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-43" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ql02mlSxMGlXZP3Vu3lK-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="340" as="sourcePoint" />
+            <mxPoint x="60" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ql02mlSxMGlXZP3Vu3lK-44" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ql02mlSxMGlXZP3Vu3lK-41" target="Ql02mlSxMGlXZP3Vu3lK-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="620" as="sourcePoint" />
+            <mxPoint x="60" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
